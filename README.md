@@ -1,4 +1,4 @@
-# Partiton_VQE
+# Cluster Simulation Scheme
 
 This repository is for sharing the codes of the VQE related experiments in https://arxiv.org/abs/1904.00102. 
 
