@@ -7,3 +7,6 @@ The code in this folder is for the experiments of running a 6-qubit VQE circuit 
 
 ## Reduce the CC(g)
 The code in this folder is for the simulations of demonstrating how to reduce the CC(g) in the VQE circuit. It corresponds to the **Appendix VIII: Reducing cc(g) in VQE** of the paper.
+
+## Acknowledgement
+The code of this experiment is based on the codes of https://github.com/iQuHACK/QUasiCoders. Thanks for the help from Linsen Li, Kaidong Peng, Yufeng Ye, and Zhen Guo.
